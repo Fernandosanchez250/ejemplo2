@@ -1,0 +1,6 @@
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\obj\Debug\arregosOxxo.csprojResolveAssemblyReference.cache
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\bin\Debug\arregosOxxo.exe.config
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\bin\Debug\arregosOxxo.exe
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\bin\Debug\arregosOxxo.pdb
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\obj\Debug\arregosOxxo.exe
+C:\Users\ADMINISTRATIVO-17\Documents\SharpDevelop Projects\arregosOxxo\arregosOxxo\obj\Debug\arregosOxxo.pdb
